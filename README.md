@@ -1,0 +1,2 @@
+# Average house prices in London
+Visualisation of average house prices in London boroughs through years. [Data](https://www.gov.uk/government/statistical-data-sets/uk-house-price-index-data-downloads-march-2017) analysed in [pandas](https://github.com/JureStabuc/london-house-prices/blob/master/house_prices.py) and visualised in d3.js. Project available [here](https://jurestabuc.github.io/london-house-prices/).
